@@ -12,8 +12,8 @@ gem 'jquery-turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: "3"
 gem 'devise', '~> 3.1.0.rc2'
-gem 'paperclip', '~> 3.0'
-gem 'aws-sdk', '~> 1.22.1'
+gem 'paperclip', '~> 3.5.2'
+gem 'aws-sdk', '~> 1.23.0'
 gem 'masonry-rails', '~> 0.2.0'
 
 group :development, :test do
